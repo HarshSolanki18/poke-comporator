@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poke-comporator/static/css/main.0c0416be.chunk.css",
+    "main.js": "/poke-comporator/static/js/main.0e8f6650.chunk.js",
+    "main.js.map": "/poke-comporator/static/js/main.0e8f6650.chunk.js.map",
+    "runtime-main.js": "/poke-comporator/static/js/runtime-main.2079f747.js",
+    "runtime-main.js.map": "/poke-comporator/static/js/runtime-main.2079f747.js.map",
+    "static/js/2.4e57d179.chunk.js": "/poke-comporator/static/js/2.4e57d179.chunk.js",
+    "static/js/2.4e57d179.chunk.js.map": "/poke-comporator/static/js/2.4e57d179.chunk.js.map",
+    "index.html": "/poke-comporator/index.html",
+    "precache-manifest.ad4ee10747ba28a260c76659100e65e5.js": "/poke-comporator/precache-manifest.ad4ee10747ba28a260c76659100e65e5.js",
+    "service-worker.js": "/poke-comporator/service-worker.js",
+    "static/css/main.0c0416be.chunk.css.map": "/poke-comporator/static/css/main.0c0416be.chunk.css.map",
+    "static/js/2.4e57d179.chunk.js.LICENSE.txt": "/poke-comporator/static/js/2.4e57d179.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2079f747.js",
+    "static/js/2.4e57d179.chunk.js",
+    "static/css/main.0c0416be.chunk.css",
+    "static/js/main.0e8f6650.chunk.js"
+  ]
+}
